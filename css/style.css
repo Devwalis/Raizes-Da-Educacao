@@ -78,6 +78,80 @@ header a{
 .logo a:hover{
     transform: scale(1.05);
 }
+section.topo-do-site{
+    background: var(--Home-color);
+    
+}
+
+section.topo-do-site .flex{
+    gap: 20px;
+}
+.img-topo-site img{
+    width: 350px;
+    height: 340px;
+    z-index: 99999;
+    position: relative;
+    bottom: -150px;
+    right: 240px;
+}
+.letreirohome img{
+    width: 650px;
+    z-index: 99999;
+    position: relative;
+    top: -300px;
+    left: 200px;
+
+}
+.letreirohome p{
+    font-size: 27px;
+    position: relative;
+    top:-530px ;
+    z-index: 99999;
+    width: 480px;
+    left: 280px;
+}
+
+.letreirohome button{
+    position: relative;
+    top: -510px;
+    z-index: 99999;
+    left: 600px;
+    width: 150px;
+    height: 30px;
+    background-color: var(--Menu-color);
+    border: none;
+    border-radius: 30px;
+}
+
+.letreirohome button a{
+    text-decoration: none;
+    font-family: lato;
+    color: white;
+    font-size: 15px;
+
+}
+.letreirohome button:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+    background-color:#729c7a;
+}
+.letreirohome{
+    height: 200px;
+
+}
+.pincel{
+    position: relative;
+    top: 80px;
+    left: 780px;
+}
+
+
+
+
+
+
+
+
 
 
 
