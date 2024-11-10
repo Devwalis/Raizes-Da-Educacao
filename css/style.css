@@ -19,6 +19,12 @@
 --fonte-de-titulo: Fredoka;
 
 }
+html {
+    scroll-behavior: smooth;
+}
+
+
+
 
 
 
