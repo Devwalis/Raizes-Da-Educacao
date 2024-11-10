@@ -45,6 +45,40 @@ h2.titulo{
 
 }
 
+header{
+    padding: 5px 4%;
+    background: var(--Menu-color);
+
+}
+header > .interface{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.logo img{
+    width: 150px;
+    height: 150px;
+}
+header a{
+    color: white;
+    text-decoration: none;
+    font-family: var(--fonte-de-texto);
+    display: inline-block;
+    transition: .2s;
+    letter-spacing:1.2px;
+    padding: 0 40px;
+
+}
+.menu-desktop a:hover{
+    color: #FFF1E2;
+    transform: scale(1.05);
+
+}
+.logo a:hover{
+    transform: scale(1.05);
+}
+
 
 
 
