@@ -6,4 +6,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+:root{
+
+    --Menu-color: #87BA91;
+    --Home-color: #FFF9F3;
+    --sessao-missao-color:#FFF1E2;
+    --quem-somos-color:#FFFAF5;
+    --footer-color:#87BA91;
+}
+
+
 
