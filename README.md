@@ -16,10 +16,11 @@ Ajudar pessoas a mudar de vida a través da educação levando esperança pra pe
 ### Quem se beneficiará?
 jovens e adultos que não sabem ler e nem escrever!
 
-### Protótipo
-<img src="img/prototipohome" alt="Prótotipo do Projeto" width="1000"/>
+### Protótipo Home
 
-link para o site [RaízesDaEducação](https://raizes-da-educacao.vercel.app/)
+<img src="img/prototipohome.jpg" alt="Prótotipo da Home" width="1000"/>
+
+link para o site em construção [RaízesDaEducação](https://raizes-da-educacao.vercel.app/)
 
 
 ## Front-end
