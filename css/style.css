@@ -165,7 +165,7 @@ section.topo-do-site .flex{
 }
 .box{
     display: flex;
-    gap: 1rem;
+    gap: 3rem;
 }
 
 .card1{
