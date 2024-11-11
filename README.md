@@ -19,7 +19,7 @@ jovens e adultos que não sabem ler e nem escrever!
 ### Protótipo
 <img src="img/prototipohome" alt="Prótotipo do Projeto" width="1000"/>
 
-link para o site [ https://raizes-da-educacao.vercel.app/ ]
+link para o site [RaízesDaEducação] (https://kaigabriel12.pythonanywhere.com/)
 
 
 ## Front-end
