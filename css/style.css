@@ -104,6 +104,8 @@ section.topo-do-site .flex{
 }
 .letreirohome p{
     font-size: 27px;
+    font-family: var(--fonte-de-texto);
+    word-spacing: 3px;
     position: relative;
     top:-530px ;
     z-index: 99999;
@@ -245,8 +247,24 @@ section.topo-do-site .flex{
     transform: scale(1.2);
     transition: 0.5s;
     background-color:#729c7a;
-    
+
     }
+
+footer{
+    background-color: var(--footer-color);
+
+}
+.logo-footer img{
+    height: 200px;
+
+}
+footer .flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
 
 
 
